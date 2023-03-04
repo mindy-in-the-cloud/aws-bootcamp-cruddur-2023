@@ -22,6 +22,10 @@ I learned about gathering requirements, and practiced making a conceptual diagra
 
 I created a billing alarm to go off at $2.
 
+![billing_alert](https://user-images.githubusercontent.com/125823746/222908193-3195f212-109d-46e9-afc7-a2f5e8fcfb13.png)
+
+
+
 
 
 
@@ -32,6 +36,10 @@ I created 2 budgets -
 
 - A zero spend budget, which would send a notification if anything was spent.
 - A credit usage budget, which would send a notification if 75% of $4 ($3) in credits was used.
+
+
+![my_budgets](https://user-images.githubusercontent.com/125823746/222908298-44189e0e-f459-46eb-99ba-561d4c039907.png)
+
 
 
 
