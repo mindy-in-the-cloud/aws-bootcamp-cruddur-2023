@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-I was given a project scenario by Margaret in the first Week 0 video, where I was tasked with creating an ephemeral microblogging platform named Cruddr.
+I was given a project scenario by Margaret in the first Week 0 video, where I was tasked with creating an ephemeral microblogging platform named Cruddur.
 
 ## Required Homework / Tasks
 
@@ -26,10 +26,6 @@ I created a billing alarm to go off at $2.
 
 
 
-
-
-
-
 ### Create a Budget
 
 I created 2 budgets - 
@@ -42,15 +38,9 @@ I created 2 budgets -
 
 
 
-
-
-
-
-
-
 ## Obstacles
 
-Obstacles included difficulty trying to use Cloudshell - it would not load in my browser despite being double-checking that I was in Northern Virginia (a supported region) and using a recent version of Firefox (AWS documentation states the latest 3 versions should be supported.)
+Obstacles included difficulty trying to use AWS CloudShell - it would not load in my browser despite double-checking that I was in Northern Virginia (a supported region) and using a recent version of Firefox (AWS documentation states the latest 3 versions should be supported.)
 
 I ended up installing the AWS CLI locally instead, and after running aws configure, was able to get a successful response to aws sts get-caller-identity.
 
@@ -70,8 +60,20 @@ After configuring my setup with my credentials, I verified that it had my accoun
 ![aws_cli_local](https://user-images.githubusercontent.com/125823746/222904382-6c1ba8da-7de9-493e-b17d-dd1b8506c311.png)
 
 
-and I was able to use it successfully after that!
+and I was able to use the CLI successfully after that!
+
 
 ## Homework Challenges
 
-Attempted homework challenges - made sure there wasn't inappropriate root account credentials, set up an IAM user, and set MFA.
+### Made sure there weren't inappropriate root account credentials, set up an IAM user, and set MFA.
+
+### Open a support ticket and request a service limit
+
+
+![support_case](https://user-images.githubusercontent.com/125823746/222909521-284e7b89-3e84-41ec-b357-4611ded772d6.png)
+
+I opened a ticket to increase the amount of CloudFront distributions... in doing so, I ended up resolving my earlier issue after speaking with support.
+There was an additional verification that needed to be completed for my account, which after completing, allowed me to access AWS CloudShell!
+
+
+
