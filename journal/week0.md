@@ -7,7 +7,7 @@ I was given a project scenario by Margaret in the first Week 0 video, where I wa
 
 ### Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 
-I learned about gathering requirements, and practiced making a conceptual diagram both in napkin form, as well as in Lucid Chart!
+I learned about gathering requirements, and practiced making a conceptual diagram both in napkin form, as well as in Lucidchart!
 
 ![napkin_diagram](https://user-images.githubusercontent.com/125823746/222904671-9bce686c-b79e-44b9-a3fe-4443abbeb452.png)
 
@@ -17,6 +17,15 @@ I learned about gathering requirements, and practiced making a conceptual diagra
 ![lucid_chart_conceptual](https://user-images.githubusercontent.com/125823746/220016278-7d1a4d88-d453-4758-a86b-09e73cd4a107.png)
 
 [Link](https://lucid.app/lucidchart/38f91f7f-1fbf-462f-9a79-95c049e92218/edit?viewport_loc=464%2C-272%2C2219%2C1047%2C0_0&invitationId=inv_c3b3a6fa-2c56-4bd1-a690-5b83e93ee8a4) to Lucid chart
+
+### Recreate Logical Architectual Diagram in Lucid Charts
+
+[Here](https://lucid.app/lucidchart/3d7e4afd-dd1a-49ff-ab74-9df3cb00c1a5/edit?invitationId=inv_31f663c5-0a9e-4aee-81a9-b6038880dbad) is the logical diagram I recreated in Lucidchart.
+
+![logical_lucid_chart](https://user-images.githubusercontent.com/125823746/222957967-d92c5480-8e6d-4575-95a4-5cb1a1d71520.png)
+
+Finding the icons I wanted was a bit time-consuming, though I'm getting better at navigating while making these charts.
+
 
 ### Create a Billing Alarm
 
